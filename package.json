@@ -1,0 +1,38 @@
+{
+  "name": "wizart-vision",
+  "version": "1.0.2",
+  "description": "Wizart Computer Vision SDK",
+  "main": "dist/main.bundle.js",
+  "scripts": {
+    "build": "WEBPACK_ENV=build webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wizart-tech/wizart-sdk-for-js.git"
+  },
+  "homepage": "https://wizart.ai/vision-api",
+  "keywords": [
+    "computer",
+    "vision",
+    "segmentation",
+    "detection",
+    "reconstruction",
+    "analysis",
+    "interior"
+  ],
+  "author": "Yauheni Dzirvuk <yauheni.dzirvuk@wizart.ai>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5",
+    "core-js": "^3.23.1",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "wizart-vision": "^1.0.0"
+  }
+}
