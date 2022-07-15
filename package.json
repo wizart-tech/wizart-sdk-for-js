@@ -1,6 +1,6 @@
 {
   "name": "wizart-vision",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Wizart Computer Vision SDK",
   "main": "dist/main.bundle.js",
   "scripts": {
@@ -33,6 +33,5 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "wizart-vision": "^1.0.0"
   }
 }
