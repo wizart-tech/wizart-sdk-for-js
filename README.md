@@ -11,7 +11,7 @@ Looking for more documentation?
 * [API & SDK Reference Documentation](https://vision-api.wizart.ai/)
 * [Wizart Automation API Documentation](https://api.wizart.ai/)
 
-If you need access to Wizart Vision API, you can get [API Token](https://wizart.ai/trial?source=vision_api) by registering a trial account.
+If you need access to Wizart Vision API, you can get [API Token](https://wizart.ai/free-trial?utm_source=rapid-api&utm_medium=vision-api&utm_campaign=direct) by registering a trial account.
 
 ## Features
 
